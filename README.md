@@ -1,5 +1,5 @@
-# BlockedTicTacToe
-Blocked Tic Tac Toe game:
+# BTTT
+BTTT game:
 
 In this version of Tic Tac Toe, the user plays against a computer that keeps track of possible 
 playing algorithms in order to win against the user.
