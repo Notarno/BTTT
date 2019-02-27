@@ -10,3 +10,4 @@ Classes:
 - PlayTTT
 - TTTDictionary
 - TTTRecord
+- PosPlay
